@@ -1,0 +1,1 @@
+![Figure](practical3_figure.png)

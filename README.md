@@ -61,7 +61,7 @@ We use **Weighted Least Squares (WLS)** to account for heteroscedastic errors.
 
 ### Figure
 
-![Practical 3 Figure](practical3_gm_absorption/practical3_figure.png)
+![Practical 3 Figure](/practical3_gm_absorption/practical3_figure.png)
 
 ---
 
